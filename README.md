@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Hamza Ahmed
 
-Welcome to my GitHub profile! I am a Computer Science student passionate about **programming, problem-solving, and software development**. Here you’ll find my **projects, learning experiments, and contributions** in C++, Java, SQL, and Data Structures & Algorithms.
+Welcome to my GitHub profile!  
+I am a **Computer Science student** passionate about **programming, problem-solving, and software development**.  
+This profile showcases my **projects, technical skills, and continuous learning journey** in software engineering.
 
 ---
+
 ## 🛠 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -11,40 +14,54 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about *
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ## 🔧 Skills
 - **Languages:** C++, Java, SQL
-- **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
-- **Tools:** Git, GitHub, IntelliJ IDEA , Visual Studio Community , Code::Blocks
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
+- **Tools:** Git, GitHub, IntelliJ IDEA, Code::Blocks
 
 ---
 
 ## 📌 Projects
+
 ### 🎮 Tic-Tac-Toe (Java)
 - Console-based 2-player game
-- Clean OOP structure
-- Input validation & win detection  
-🔗 [View Repository](https://github.com/Hamzahmad6/TicTacToeGame)
+- Clean OOP design
+- Input validation and win detection  
+🔗 [View Repository](https://github.com/hamzahmad6/TicTacToe)
+
+---
 
 ### 📚 Library Management System (C++)
-- Book & user management
+- Book and user management
 - File handling
-- Modular design  
+- Modular and maintainable structure  
 🔗 [View Repository](https://github.com/hamzahmad6/LibrarySystemCPP)
 
+---
+
 ### 📝 Other Projects
-- DSA practice problems
-- Mini console-based apps
-- Learning experiments
+- Data Structures & Algorithms practice
+- Mini console-based applications
+- Learning and experimentation projects
 
 ---
 
+## 📈 GitHub Stats
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzahmad6&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahmad6&layout=compact&theme=radical" width="48%">
+</p>
+
+---
 
 ## 🤝 Connect With Me
-- LinkedIn: [Hamza Ahmed](https://www.linkedin.com/in/hamza-ahmed-8a312a302/)
-- Email: Hamzabatawy@gmail.com
+- **LinkedIn:** https://linkedin.com/in/hamzahmad6  
+- **Email:** Hamzabatawy@gmail.com
 
 ---
 
-💡 I am always learning, experimenting, and improving my skills. Feel free to explore my repositories, give feedback, or connect with me! 🚀
+💡 I am always learning, building, and improving my skills.  
+Feel free to explore my repositories, give feedback, or connect with me!
