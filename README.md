@@ -48,11 +48,11 @@ This profile showcases my **projects, technical skills, and continuous learning 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Activity Overview
+- Actively building console-based applications in C++ and Java
+- Practicing Data Structures & Algorithms regularly
+- Continuously improving clean code and OOP design
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzahmad6&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzahmad6&layout=compact)
 
 
 ## 🤝 Connect With Me
