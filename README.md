@@ -31,7 +31,7 @@ This profile showcases my **projects, technical skills, and continuous learning 
 - Console-based 2-player game
 - Clean OOP design
 - Input validation and win detection  
-🔗 [View Repository](https://github.com/hamzahmad6/TicTacToe)
+🔗 [View Repository](https://github.com/Hamzahmad6/TicTacToeGame)
 
 ### 📚 Library Management System (C++)
 - Book and user management
@@ -53,7 +53,7 @@ This profile showcases my **projects, technical skills, and continuous learning 
 ---
 
 ## 🤝 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/hamzahmad6  
+- **LinkedIn:** www.linkedin.com/in/hamza-ahmed-8a312a302  
 - **Email:** Hamzabatawy@gmail.com
 
 ---
