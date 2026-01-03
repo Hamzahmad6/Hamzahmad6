@@ -18,16 +18,10 @@ This profile showcases my **projects, technical skills, and continuous learning 
 
 ---
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahmad6&layout=compact&theme=radical)
-
----
-
-## 📊 GitHub Activity
-- Actively committing to practice projects
-- Solving **DSA problems** regularly
-- Building mini projects in **C++, Java, Python, SQL**
-- Continuous learning and experimentation
+## 🔧 Skills
+- **Languages:** C++, Java, Python, SQL
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+- **Tools:** Git, GitHub, IntelliJ IDEA, Code::Blocks, Tkinter
 
 ---
 
@@ -37,7 +31,7 @@ This profile showcases my **projects, technical skills, and continuous learning 
 - Console-based 2-player game
 - Clean OOP design
 - Input validation and win detection  
-🔗 [View Repository](https://github.com/hamzahmad6/TicTacToe)
+🔗 [View Repository](https://github.com/Hamzahmad6/TicTacToeGame)
 
 ### 📚 Library Management System (C++)
 - Book and user management
@@ -49,7 +43,7 @@ This profile showcases my **projects, technical skills, and continuous learning 
 - GUI quiz application using Tkinter
 - 10 multiple-choice questions with shuffled options
 - Score tracking and user name input  
-🔗 [View Repository](https://github.com/hamzahmad6/ChemistryQuiz)
+🔗 [View Repository](https://github.com/Hamzahmad6/Python-Chemistry-Quiz)
 
 ### 📝 Other Projects
 - Data Structures & Algorithms practice
@@ -57,14 +51,13 @@ This profile showcases my **projects, technical skills, and continuous learning 
 - Learning and experimentation projects
 
 ---
-
 ## 👀 Profile Views
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hamzahmad6.hamzahmad6)
 
 ---
 
 ## 🤝 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/hamzahmad6  
+- **LinkedIn:** www.linkedin.com/in/hamza-ahmed-8a312a302  
 - **Email:** Hamzabatawy@gmail.com
 
 ---
