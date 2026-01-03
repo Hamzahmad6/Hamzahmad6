@@ -50,12 +50,10 @@ This profile showcases my **projects, technical skills, and continuous learning 
 
 ## 📈 GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzahmad6&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahmad6&layout=compact&theme=radical" width="48%">
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzahmad6&show_icons=true)
 
----
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamzahmad6&layout=compact)
+
 
 ## 🤝 Connect With Me
 - **LinkedIn:** https://linkedin.com/in/hamzahmad6  
