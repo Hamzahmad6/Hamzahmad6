@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about *
 ## 🔧 Skills
 - **Languages:** C++, Java, SQL
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
-- **Tools:** Git, GitHub, IntelliJ IDEA, Code::Blocks
+- **Tools:** Git, GitHub, IntelliJ IDEA , Visual Studio Community , Code::Blocks
 
 ---
 
@@ -31,10 +31,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about *
 
 ---
 
-## 📈 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzahmad6&show_icons=true&theme=radical)
 
----
 
 ## 🤝 Connect With Me
 - LinkedIn: [Hamza Ahmed](https://www.linkedin.com/in/hamza-ahmed-8a312a302/)
