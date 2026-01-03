@@ -10,6 +10,8 @@ This profile showcases my **projects, technical skills, and continuous learning 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-green?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -17,9 +19,9 @@ This profile showcases my **projects, technical skills, and continuous learning 
 ---
 
 ## 🔧 Skills
-- **Languages:** C++, Java, SQL
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
-- **Tools:** Git, GitHub, IntelliJ IDEA, Code::Blocks
+- **Languages:** C++, Java, Python, SQL
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+- **Tools:** Git, GitHub, IntelliJ IDEA, Code::Blocks, Tkinter
 
 ---
 
@@ -31,15 +33,17 @@ This profile showcases my **projects, technical skills, and continuous learning 
 - Input validation and win detection  
 🔗 [View Repository](https://github.com/hamzahmad6/TicTacToe)
 
----
-
 ### 📚 Library Management System (C++)
 - Book and user management
 - File handling
-- Modular and maintainable structure  
+- Modular design  
 🔗 [View Repository](https://github.com/hamzahmad6/LibrarySystemCPP)
 
----
+### 🧪 Chemistry Quiz (Python)
+- GUI quiz application using Tkinter
+- 10 multiple-choice questions with shuffled options
+- Score tracking and user name input  
+🔗 [View Repository](https://github.com/Hamzahmad6/Python-Chemistry-Quiz)
 
 ### 📝 Other Projects
 - Data Structures & Algorithms practice
@@ -48,13 +52,6 @@ This profile showcases my **projects, technical skills, and continuous learning 
 
 ---
 
-## 📊 Activity Overview
-- Actively building console-based applications in C++ and Java
-- Practicing Data Structures & Algorithms regularly
-- Continuously improving clean code and OOP design
-
-
-
 ## 🤝 Connect With Me
 - **LinkedIn:** https://linkedin.com/in/hamzahmad6  
 - **Email:** Hamzabatawy@gmail.com
@@ -62,4 +59,4 @@ This profile showcases my **projects, technical skills, and continuous learning 
 ---
 
 💡 I am always learning, building, and improving my skills.  
-Feel free to explore my repositories, give feedback, or connect with me!
+Feel free to explore my repositories, give feedback, or connect with me! 🚀
