@@ -59,7 +59,7 @@ This profile showcases my **projects, technical skills, and continuous learning 
 ## 🤝 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/hamza-ahmed-8a312a302  
 - **Email:** Hamzabatawy@gmail.com
-
+- **Secondary Email** H.Ahmed2432@nu.edu.eg
 ---
 
 💡 I am always learning, building, and improving my skills.  
