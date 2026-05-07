@@ -6,7 +6,7 @@ This profile showcases my **projects, technical skills, and continuous learning 
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -18,49 +18,66 @@ This profile showcases my **projects, technical skills, and continuous learning 
 
 ---
 
-## 🔧 Skills
-- **Languages:** C++, Java, Python, SQL
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
-- **Tools:** Git, GitHub, IntelliJ IDEA, Code::Blocks, Tkinter
+## 💡 Skills
+- **Languages:** C++, Java, Python, SQL  
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms  
+- **Tools:** Git, GitHub, IntelliJ IDEA, Code::Blocks, Tkinter  
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
+
+### 🏥 Clinic Management System (Java + JavaFX)
+- Desktop application for managing clinics efficiently  
+- Patient, doctor, and appointment management  
+- Booking, rescheduling, and cancellation system  
+- Clean UI using JavaFX  
+🔗 [View Repository](https://github.com/Hamzahmad6/Clinic-System)
+
+---
 
 ### 🎮 Tic-Tac-Toe (Java)
-- Console-based 2-player game
-- Clean OOP design
-- Input validation and win detection  
+- Console-based 2-player game  
+- OOP-based clean design  
+- Win detection + input validation  
 🔗 [View Repository](https://github.com/Hamzahmad6/TicTacToeGame)
 
+---
+
 ### 📚 Library Management System (C++)
-- Book and user management
-- File handling
-- Modular design  
+- Book and user management system  
+- File handling implementation  
+- Modular and scalable design  
 🔗 [View Repository](https://github.com/hamzahmad6/LibrarySystemCPP)
 
+---
+
 ### 🧪 Chemistry Quiz (Python)
-- GUI quiz application using Tkinter
-- 10 multiple-choice questions with shuffled options
-- Score tracking and user name input  
+- GUI-based quiz using Tkinter  
+- Randomized MCQs with scoring system  
+- User-friendly interface  
 🔗 [View Repository](https://github.com/Hamzahmad6/Python-Chemistry-Quiz)
 
-### 📝 Other Projects
-- Data Structures & Algorithms practice
-- Mini console-based applications
-- Learning and experimentation projects
+---
+
+### 🛠 Other Work
+- Data Structures & Algorithms practice  
+- Mini console applications  
+- Continuous learning projects  
 
 ---
+
 ## 👀 Profile Views
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hamzahmad6.hamzahmad6)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hamzahmad6.Hamzahmad6)
 
 ---
 
 ## 🤝 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/hamza-ahmed-8a312a302  
-- **Email:** Hamzabatawy@gmail.com
-- **Secondary Email** H.Ahmed2432@nu.edu.eg
+- **Email:** Hamzabatawy@gmail.com  
+- **Secondary Email:** H.Ahmed2432@nu.edu.eg  
+
 ---
 
-💡 I am always learning, building, and improving my skills.  
-Feel free to explore my repositories, give feedback, or connect with me! 🚀
+💡 Always learning, building, and improving.  
+Feel free to explore my repositories or connect with me! 🚀
